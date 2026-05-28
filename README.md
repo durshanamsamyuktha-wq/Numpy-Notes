@@ -1,5 +1,3 @@
-Numpy-notes
-
 Over view on Numpy
 
 NumPy Commands Repository
